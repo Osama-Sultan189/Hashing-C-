@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\BS 5th semester\AOA\Ques1-hashing\perfectHashing.h(68): warning C4715: 'PerfectHahing::search': not all control paths return a value
+  Ques1-hashing.vcxproj -> E:\BS 5th semester\AOA\Ques1-hashing\Debug\Ques1-hashing.exe
